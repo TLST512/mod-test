@@ -9,3 +9,5 @@ If you want to create your own plugin with this template, check the [wiki](https
 Loretm ipsum
 
 titulo
+
+3
